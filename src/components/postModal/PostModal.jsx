@@ -2,7 +2,7 @@ import { postStructure } from '../../utils'
 import './PostModal.css'
 
 export default function PostModal({ handleClose }) {
-
+    // stoped here for today 30.06.2024
     return (
         <>
             <section className='modal-bgc'>
