@@ -1,0 +1,21 @@
+.navbar{
+    width: 100%;
+    max-width: 2000px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 60px;;
+    background-color: rgb(195, 243, 243);
+}
+
+.nav-logo{
+padding: 0 10px;
+}
+
+.nav-ul{
+    width: 70%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    gap: 10px;
+}
